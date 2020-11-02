@@ -6,4 +6,8 @@ class Persona{
     public function login(){
         return "login";
     }
+
+    public function logout(){
+
+    }
 }
